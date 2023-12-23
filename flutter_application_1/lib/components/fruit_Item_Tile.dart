@@ -39,7 +39,7 @@ class FruitItemTile extends StatelessWidget {
             onPressed: onPressed,
             padding: const EdgeInsets.all(8),
             color: Colors.black,
-            child: Text('₹$fruitPrice',
+            child: Text('₹$fruitPrice/kg',
             style: const TextStyle(
               color: Colors.white,
               fontWeight: FontWeight.bold,
